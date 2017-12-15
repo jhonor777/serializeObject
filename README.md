@@ -68,4 +68,4 @@ console.log(formDataJson);
 
 # End
 
-This plug-in can quickly serialize complex forms, which is a common function. If you can quickly fill in the form after serialization data, please share the code.
+This plug-in can quickly serialize complex forms, which is a common function. If you can quickly fill in the form after serialization data, please share the code.email:407662386@qq.com
